@@ -59,26 +59,13 @@ optimization engines.
 ---
 
 # Audit Methodology
-
 The public methodology currently includes:
 
 1. Structural Runtime Cartography
 2. Constraint Surface Mapping
-3. Ridge Geometry Extraction
-4. Symbolic Diffusion Analysis
-5. Collapse Surface Analysis
-6. Observer Stabilization
-7. Structural Stability Validation
-
-The framework analyzes:
-
-- what holds
-- what breaks
-- where coherence shifts
-- where admissibility fails
-- where refusal emerges
-
-without reducing systems to simplistic narratives.
+3. Runtime Observability Analysis
+4. Coherence Surface Analysis
+5. Continuity & Drift Evaluation
 
 ---
 
